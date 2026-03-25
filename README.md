@@ -30,34 +30,34 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-8C7355?style=flat-square&logo=python&logoColor=E8DCC8"/>
+      <img src="https://img.shields.io/badge/SQL-8C7355?style=flat-square&logo=postgresql&logoColor=E8DCC8"/>
       <br/>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Power%20BI-A0896B?style=flat-square&logo=powerbi&logoColor=E8DCC8"/>
+      <img src="https://img.shields.io/badge/DAX-A0896B?style=flat-square&logo=powerbi&logoColor=E8DCC8"/>
       <br/>
-      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pandas-8C7355?style=flat-square&logo=pandas&logoColor=E8DCC8"/>
+      <img src="https://img.shields.io/badge/VBA-A0896B?style=flat-square&logo=microsoftexcel&logoColor=E8DCC8"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/XGBoost-189A57?style=flat-square"/>
+      <img src="https://img.shields.io/badge/scikit--learn-8C7355?style=flat-square&logo=scikitlearn&logoColor=E8DCC8"/>
+      <img src="https://img.shields.io/badge/XGBoost-A0896B?style=flat-square&logoColor=E8DCC8"/>
       <br/>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-8C7355?style=flat-square&logo=keras&logoColor=E8DCC8"/>
+      <img src="https://img.shields.io/badge/TensorFlow-A0896B?style=flat-square&logo=tensorflow&logoColor=E8DCC8"/>
       <br/>
-      <img src="https://img.shields.io/badge/Prophet-0288D1?style=flat-square"/>
-      <img src="https://img.shields.io/badge/SARIMAX-0288D1?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Prophet-8C7355?style=flat-square&logoColor=E8DCC8"/>
+      <img src="https://img.shields.io/badge/SARIMAX-A0896B?style=flat-square&logoColor=E8DCC8"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-8C7355?style=flat-square&logo=docker&logoColor=E8DCC8"/>
+      <img src="https://img.shields.io/badge/Airflow-A0896B?style=flat-square&logo=apacheairflow&logoColor=E8DCC8"/>
       <br/>
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MLflow-8C7355?style=flat-square&logo=mlflow&logoColor=E8DCC8"/>
+      <img src="https://img.shields.io/badge/Git-A0896B?style=flat-square&logo=git&logoColor=E8DCC8"/>
       <br/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS%20Code-8C7355?style=flat-square&logo=visualstudiocode&logoColor=E8DCC8"/>
+      <img src="https://img.shields.io/badge/Jupyter-A0896B?style=flat-square&logo=jupyter&logoColor=E8DCC8"/>
     </td>
   </tr>
 </table>
@@ -104,6 +104,6 @@
 <h3 align="center">GitHub stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandrardo&show_icons=true&theme=default&hide_border=true&hide_title=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrardo&layout=compact&theme=default&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandrardo&show_icons=true&theme=dracula&hide_border=true&hide_title=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrardo&layout=compact&theme=dracula&hide_border=true" height="140"/>
 </p>
