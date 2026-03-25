@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Analyst · ML Engineer in training</b><br/>
-  Madrid 🇪🇸 → Munich 🇩🇪
+  Madrid 🇪🇸 and Munich 🇩🇪
 </p>
 
 <p align="center">
@@ -16,8 +16,7 @@
 - 🎓 MSc Data Science & AI · Nuclio / EUNEIZ (May 2026)
 - 💼 Data Analyst @ El Corte Inglés Seguros — Power BI, DAX, Python ETL
 - 🔬 Published researcher — underwater object detection with YOLOv8 (ROSUS 2024)
-- 🌍 Learning German (A1) · Relocating to Munich
-- 📬 Open to Data / ML roles in Germany
+- 🌍 Learning German (A1) 
 
 ---
 
