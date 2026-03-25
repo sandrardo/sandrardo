@@ -14,6 +14,7 @@
 ---
 
 - 🎓 MSc Data Science & AI · Nuclio / EUNEIZ (May 2026)
+- 📡 Telecommunications Engineer · Universidad Politécnica de Madrid (UPM)
 - 💼 Data Analyst @ El Corte Inglés Seguros — Power BI, DAX, Python ETL
 - 🔬 Published researcher — underwater object detection with YOLOv8 (ROSUS 2024)
 - 🌍 Learning German (A1-A2) 
