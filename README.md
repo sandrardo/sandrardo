@@ -2,7 +2,7 @@
 
 **Data Analyst · ML Engineer in training**
 
-📧 sandrarodo@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn]([https://linkedin.com/in/sandrardo](https://www.linkedin.com/in/sandra-rodriguez-dominguez/)) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/sandrardo)
+📧 sandrarodo@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/sandra-rodriguez-dominguez/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/sandrardo)
 
 ---
 
