@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Analyst · ML Engineer in training</b><br/>
-  Madrid and Munich
+  Madrid
 </p>
 
 <p align="center">
