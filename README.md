@@ -105,6 +105,6 @@
 <h3 align="center">GitHub stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandrardo&show_icons=true&theme=dracula&hide_border=true&hide_title=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrardo&layout=compact&theme=dracula&hide_border=true" height="140"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=sandrardo&theme=dracula&hide_border=true" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrardo&layout=compact&theme=dracula&hide_border=true" height="140"/>
 </p>
