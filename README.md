@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Sandra</h1>
 
 <p align="center">
-  <b>Data Analyst · ML Engineer in training</b><br/>
+  <b>Data Analyst and ML Engineer in training</b><br/>
   Madrid
 </p>
 
