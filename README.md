@@ -17,7 +17,7 @@
 - 📡 Telecommunications Engineer · Polytechnic University of Madrid (UPM)
 - 💼 Data Analyst @ El Corte Inglés Seguros — Power BI, DAX, Python ETL
 - 🔬 Published researcher — underwater object detection with YOLOv8 (ROSUS 2024)
-- 🌍 Learning German (A1-A2) 
+- 🌍 Learning German (A1-A2)
 
 ---
 
@@ -99,6 +99,22 @@
     </td>
   </tr>
 </table>
+
+---
+
+<h3 align="center">Publication</h3>
+
+<p align="center">
+  <a href="https://doi.org/10.18690/um.feri.1.2024">
+    <img src="https://img.shields.io/badge/DOI-10.18690%2Fum.feri.1.2024-8C7355?style=flat-square&logoColor=E8DCC8"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Underwater Object Detection Using Generative Models</b><br/>
+  <sub>ROSUS 2024 · 18th Computer Vision Conference · University of Maribor · Machine Vision Laboratory</sub><br/>
+  <sub>YOLOv8 · synthetic data generation · deep learning</sub>
+</p>
 
 ---
 
