@@ -98,14 +98,20 @@
       <sub>YOLOv8 · synthetic data · published ROSUS 2024</sub>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>🛒 DSMarket — Retail Sales Forecasting (TFM)</b><br/>
-      <sub>Master's thesis project · <i>Coming soon</i></sub>
-    </td>
-    <td></td>
-  </tr>
 </table>
+
+---
+
+<h3 align="center">Work in progress</h3>
+
+<p align="center">
+  <b>🛒 DSMarket — Retail Sales Forecasting (TFM)</b><br/>
+  <sub>Master's thesis project · <i>Coming soon</i></sub>
+</p>
+
+<p align="center">
+  <sub>Forecasting sales across 10 stores and hundreds of products, working with a dataset of over 46 million rows.</sub>
+</p>
 
 ---
 
