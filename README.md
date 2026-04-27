@@ -98,6 +98,13 @@
       <sub>YOLOv8 · synthetic data · published ROSUS 2024</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>🛒 DSMarket — Retail Sales Forecasting (TFM)</b><br/>
+      <sub>Master's thesis project · <i>Coming soon</i></sub>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 ---
@@ -121,6 +128,6 @@
 <h3 align="center">GitHub stats</h3>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=sandrardo&theme=dracula&hide_border=true" height="140"/>
+ <img src="https://streak-stats.demolab.com?user=sandrardo&theme=dracula&hide_border=true" height="140"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrardo&layout=compact&theme=dracula&hide_border=true" height="140"/>
 </p>
