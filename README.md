@@ -102,6 +102,21 @@
 
 ---
 
+<h3 align="center">Other projects</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>⏱️ Embedded Clock — Raspberry Pi</b><br/>
+      <sub>FSM architecture · C · GPIO · threads · LCD display</sub>
+    </td>
+    <td align="center" width="50%">
+      <b>🔗 <a href="https://github.com/sandrardo/embedded-clock-rpi-fsm">embedded-clock-rpi-fsm</a></b><br/>
+      <sub>Real-time system · WiringPi · interrupt-driven · mutex locks</sub>
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">Work in progress</h3>
 
 <p align="center">
