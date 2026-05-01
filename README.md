@@ -122,7 +122,7 @@
 <h3 align="center">Work in progress</h3>
 
 <p align="center">
-  <b>🛒 DSMarket — Retail Sales Forecasting (TFM)</b><br/>
+  <b>🛒 DSMarket — Retail Sales Forecasting </b><br/>
   <sub>Master's thesis project · <i>Coming soon</i></sub>
 </p>
 
