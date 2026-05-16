@@ -123,7 +123,7 @@
 
 <p align="center">
   <b>🛒 DSMarket — Retail Sales Forecasting </b><br/>
-  <sub>Master's thesis project · <i>Coming soon</i></sub>
+  <sub>Master's thesis project · <i>Coming soon - End of May</i></sub>
 </p>
 
 <p align="center">
