@@ -122,8 +122,9 @@
 <h3 align="center">Work in progress</h3>
 
 <p align="center">
-  <b>🛒 DSMarket — Retail Sales Forecasting </b><br/>
-  <sub>Master's thesis project · <i>Coming soon - End of May</i></sub>
+  <b>🛒 DSMarket — Retail Sales Forecasting</b><br/>
+  <sub>End-to-end ML project for demand forecasting and inventory replenishment across 10 retail stores in NYC, Boston and Philadelphia.<br/>
+  XGBoost · Power BI · FastAPI · MLOps · <i>Master's thesis · Coming soon - End of May 2026</i></sub>
 </p>
 
 <p align="center">
