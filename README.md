@@ -13,7 +13,7 @@
 
 ---
 
-- 🎓 MSc Data Science & AI · Nuclio / EUNEIZ (May 2026)
+- 🎓 MSc Data Science & AI · Nuclio / EUNEIZ (May 2026) — Thesis: DSMarket retail forecasting
 - 📡 Telecommunications Engineer · Polytechnic University of Madrid (UPM)
 - 💼 Data Analyst @ El Corte Inglés Seguros — Power BI, DAX, Python ETL
 - 🔬 Published researcher — underwater object detection with YOLOv8 (ROSUS 2024)
@@ -119,17 +119,30 @@
 
 ---
 
-<h3 align="center">Work in progress</h3>
+<h3 align="center">Master's Thesis Project</h3>
 
 <p align="center">
   <b>🛒 DSMarket — Retail Sales Forecasting</b><br/>
   <sub>End-to-end ML project for demand forecasting and inventory replenishment across 10 retail stores in NYC, Boston and Philadelphia.<br/>
-  XGBoost · Power BI · FastAPI · MLOps · <i>Master's thesis · Coming soon - End of May 2026</i></sub>
+  Working with a dataset of over 46 million rows.</sub>
 </p>
 
-<p align="center">
-  <sub>Forecasting sales across 10 stores and hundreds of products, working with a dataset of over 46 million rows.</sub>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>📊 EDA & Clustering</b><br/>
+      <sub>Sales trends · price elasticity · K-Means · ABC/XYZ classification · product & store segmentation</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>📈 Sales Forecasting</b><br/>
+      <sub>XGBoost · skforecast · 28-day horizon · 54.7% WMAPE improvement over baseline</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>🔧 MLOps & BI</b><br/>
+      <sub>Power BI dashboard · REST API · CI/CD · MLflow · stock replenishment web prototype</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
