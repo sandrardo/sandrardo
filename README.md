@@ -13,9 +13,8 @@
 
 ---
 
-- 🎓 MSc Data Science & AI · Nuclio / EUNEIZ (May 2026) — Thesis: DSMarket retail forecasting
+- 🎓 MSc Data Science & AI · Nuclio / EUNEIZ — Thesis: DSMarket retail forecasting
 - 📡 Telecommunications Engineer · Polytechnic University of Madrid (UPM)
-- 💼 Data Analyst @ El Corte Inglés Seguros — Power BI, DAX, Python ETL
 - 🔬 Published researcher — underwater object detection with YOLOv8 (ROSUS 2024)
 - 🌍 Learning German (A1-A2)
 
