@@ -13,7 +13,7 @@
 
 ---
 
-- 🎓 MSc Data Science & AI · Nuclio / EUNEIZ — Thesis: DSMarket retail forecasting
+- 🎓 MSc Data Science & AI · Nuclio / EUNEIZ (9.68/10) — Thesis: DSMarket retail forecasting
 - 📡 Telecommunications Engineer · Polytechnic University of Madrid (UPM)
 - 🔬 Published researcher — underwater object detection with YOLOv8 (ROSUS 2024)
 - 🌍 Learning German (A1-A2)
